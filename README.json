@@ -1,0 +1,918 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firezone",
+          "description": "Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2026-08-13T04:22:42Z",
+            "owner": "firezone",
+            "repo": "firezone",
+            "stars": 9013
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pilot Protocol",
+          "description": "Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-10T20:36:57Z",
+            "owner": "pilot-protocol",
+            "repo": "pilotprotocol",
+            "stars": 131
+          }
+        }
+      ],
+      "title": "VPN"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Arkime",
+          "description": "Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:00:00Z",
+            "owner": "arkime",
+            "repo": "arkime",
+            "stars": 7444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snabb",
+          "description": "Snabb (formerly \"Snabb Switch\") is a simple and fast packet networking toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Lua",
+            "last_commit": "2026-07-30T10:02:42Z",
+            "owner": "snabbco",
+            "repo": "snabb",
+            "stars": 3034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vqfx10k-vagrant",
+          "description": "Vagrant files to bring up Juniper virtual QFX instances.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2020-11-21T02:31:19Z",
+            "owner": "Juniper",
+            "repo": "vqfx10k-vagrant",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Multi-Generator",
+          "description": "Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2025-10-02T12:23:37Z",
+            "owner": "USNavalResearchLaboratory",
+            "repo": "mgen",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Packet Communication Investigator",
+          "description": "import network traffic into a graphtool to analyse packet interactions between machines and network.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-06-15T23:56:30Z",
+            "owner": "michoo",
+            "repo": "pci",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network-Conditions-Emulator",
+          "description": "Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-10-27T18:46:18Z",
+            "owner": "marty90",
+            "repo": "Network-Conditions-Emulator",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Network Simulators and Traffic Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Oxidized",
+          "description": "Network device configuration backup tool. It's a RANCID replacement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-08-07T23:22:40Z",
+            "owner": "ytti",
+            "repo": "oxidized",
+            "stars": 3492
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Batfish",
+          "description": "Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T22:08:45Z",
+            "owner": "batfish",
+            "repo": "batfish",
+            "stars": 1449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jazigo",
+          "description": "Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-11-02T21:43:49Z",
+            "owner": "udhos",
+            "repo": "jazigo",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sweet",
+          "description": "Network device configuration backups and change alerts for the 21st century - inspired by RANCID.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2017-04-17T02:47:26Z",
+            "owner": "AppliedTrust",
+            "repo": "sweet",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "stockpiler",
+          "description": "Stockpiler gathers network device configurations and stores them in a local Git repository.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-15T18:53:52Z",
+            "owner": "lykinsbd",
+            "repo": "stockpiler",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fetchconfig",
+          "description": "fetchconfig is a Perl script for retrieving configuration of multiple devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2017-02-01T17:27:54Z",
+            "owner": "udhos",
+            "repo": "fetchconfig",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Network Change Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ansible",
+          "description": "IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T21:53:38Z",
+            "owner": "ansible",
+            "repo": "ansible",
+            "stars": 70343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWX",
+          "description": "the upstream project for Tower / AAP2, a commercial derivative of AWX.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:02:36Z",
+            "owner": "ansible",
+            "repo": "awx",
+            "stars": 15525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netmiko",
+          "description": "Multi-vendor library to simplify Paramiko SSH connections to network devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T19:00:02Z",
+            "owner": "ktbyers",
+            "repo": "netmiko",
+            "stars": 4246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nornir",
+          "description": "Pluggable multi-threaded framework with inventory management to help operate collections of devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:55:06Z",
+            "owner": "nornir-automation",
+            "repo": "nornir",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ntc-templates",
+          "description": "TextFSM templates for parsing show commands of network devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-27T01:17:04Z",
+            "owner": "networktocode",
+            "repo": "ntc-templates",
+            "stars": 1285
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextFSM",
+          "description": "Python module for parsing semi-structured text into Python tables.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-17T04:16:34Z",
+            "owner": "google",
+            "repo": "textfsm",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trigger",
+          "description": "Robust network automation toolkit written in Python that was designed for interfacing with network devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T11:03:54Z",
+            "owner": "trigger",
+            "repo": "trigger",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TTP",
+          "description": "TTP is a Python library for semi-structured text parsing using templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T11:15:39Z",
+            "owner": "dmulyalin",
+            "repo": "ttp",
+            "stars": 393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CNaaS-NMS",
+          "description": "Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:16:59Z",
+            "owner": "SUNET",
+            "repo": "cnaas-nms",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gotextfsm",
+          "description": "Port of Google's TextFSM library from Python to Go/Golang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-18T00:21:49Z",
+            "owner": "sirikothe",
+            "repo": "gotextfsm",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GitNOps",
+          "description": "GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HCL",
+            "last_commit": "2026-05-31T11:42:57Z",
+            "owner": "mcgonagle",
+            "repo": "GitNops",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Network Automation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DefenseClaw",
+          "description": "DefenseClaw is the enterprise governance layer for OpenClaw",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T18:11:33Z",
+            "owner": "cisco-ai-defense",
+            "repo": "defenseclaw",
+            "stars": 818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NetClaw",
+          "description": "A CCIE-level AI network engineering coworker, built on OpenClaw",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:58:48Z",
+            "owner": "automateyournetwork",
+            "repo": "netclaw",
+            "stars": 632
+          }
+        }
+      ],
+      "title": "AI for Networking"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elastiflow",
+          "description": "Netflow collector and reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Shell",
+            "last_commit": "2024-03-22T22:03:16Z",
+            "owner": "robcowart",
+            "repo": "elastiflow",
+            "stars": 2511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vFlow",
+          "description": "High-performance, scalable and reliable IPFIX, sFlow and Netflow collector (written in pure Golang).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-22T13:29:15Z",
+            "owner": "Edgio",
+            "repo": "vflow",
+            "stars": 1155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BGPAlerter",
+          "description": "Self-configuring BGP monitoring tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T03:22:26Z",
+            "owner": "nttgin",
+            "repo": "BGPalerter",
+            "stars": 1008
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "goFlow",
+          "description": "a NetFlow/IPFIX/sFlow collector in Go.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-02-19T15:21:52Z",
+            "owner": "cloudflare",
+            "repo": "goflow",
+            "stars": 919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vaping",
+          "description": "vaping is a healthy alternative to smokeping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-20T21:49:54Z",
+            "owner": "20c",
+            "repo": "vaping",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ToDD",
+          "description": "Distributed, testing-on-demand system focused on testing network related conditions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2021-10-07T01:10:49Z",
+            "owner": "toddproject",
+            "repo": "todd",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xpresso",
+          "description": "the standard pyATS UI dashboard",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-03-09T14:24:22Z",
+            "owner": "CiscoTestAutomation",
+            "repo": "xpresso",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UDPing",
+          "description": "Measure latency and packet loss across a link.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T18:36:38Z",
+            "owner": "yahoo",
+            "repo": "UDPing",
+            "stars": 85
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSPF Watcher",
+          "description": "Monitors OSPF topology changes and LSA updates in real time. Provides event visualization and historical tracking via Topolograph or centralized logging through ELK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-23T02:41:35Z",
+            "owner": "Vadims06",
+            "repo": "ospfwatcher",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rkik",
+          "description": "Light, easy-to-use monitoring tool for NTP servers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-10T14:09:27Z",
+            "owner": "aguacero7",
+            "repo": "rkik",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IS-IS Watcher",
+          "description": "Monitors IS-IS topology changes and PDU updates in real time. Provides event visualization and historical tracking via Topolograph or centralized logging through ELK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-21T14:26:29Z",
+            "owner": "Vadims06",
+            "repo": "isiswatcher",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NexusFlowMeter",
+          "description": "high-performance network flow analysis tool that converts packet capture (PCAP) files into comprehensive flow-based insights, includes various productibity features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-19T11:54:07Z",
+            "owner": "Collgamer0008",
+            "repo": "NexusFlowMeter",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Network Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PyREBox",
+          "description": "Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C",
+            "last_commit": "2024-02-14T14:54:36Z",
+            "owner": "Cisco-Talos",
+            "repo": "pyrebox",
+            "stars": 1684
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malcolm",
+          "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files) and Zeek logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:55:18Z",
+            "owner": "idaholab",
+            "repo": "Malcolm",
+            "stars": 477
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "Zeek",
+          "description": "Zeek is an open source network security monitoring tool.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "zeek2es",
+              "description": "A Zeek log to Elastic/OpenSearch log converter.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Python",
+                "last_commit": "2022-08-18T13:23:02Z",
+                "owner": "corelight",
+                "repo": "zeek2es",
+                "stars": 40
+              }
+            }
+          ]
+        }
+      ],
+      "title": "Security Monitoring"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netbox",
+          "description": "IP address management (IPAM) and data center infrastructure management (DCIM) tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:22:52Z",
+            "owner": "netbox-community",
+            "repo": "netbox",
+            "stars": 21304
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nautobot",
+          "description": "Network Source of Truth & Network Automation Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T21:08:49Z",
+            "owner": "nautobot",
+            "repo": "nautobot",
+            "stars": 1576
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drawthe.net",
+          "description": "Draws network diagrams dynamically from a text file describing the placement, layout and icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-19T08:34:34Z",
+            "owner": "cidrblock",
+            "repo": "drawthe.net",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "infrahub",
+          "description": "Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:59:46Z",
+            "owner": "opsmill",
+            "repo": "infrahub",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nsot",
+          "description": "Network Source of Truth is an open source IPAM and network inventory database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T15:09:43Z",
+            "owner": "dropbox",
+            "repo": "nsot",
+            "stars": 406
+          }
+        }
+      ],
+      "title": "Network Inventory"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "containerlab",
+          "description": "Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T02:48:59Z",
+            "owner": "srl-labs",
+            "repo": "containerlab",
+            "stars": 2733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netlab",
+          "description": "netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T09:31:25Z",
+            "owner": "ipspace",
+            "repo": "netlab",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CML",
+          "description": "Cisco Modeling Labs is a network simulation tool with both free and paid versions. CML is the successor to VIRL. Community contributed content and resources are available via cml-community.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-06T16:19:43Z",
+            "owner": "CiscoDevNet",
+            "repo": "cml-community",
+            "stars": 629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PNETLab",
+          "description": "Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-07-24T19:35:04Z",
+            "owner": "pnetlab",
+            "repo": "pnetlab_main",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "Networking Labs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netshoot",
+          "description": "a Docker + Kubernetes network trouble-shooting swiss-army container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T17:14:17Z",
+            "owner": "nicolaka",
+            "repo": "netshoot",
+            "stars": 10932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "netshoot",
+          "description": "a Docker + Kubernetes network trouble-shooting swiss-army container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T17:14:17Z",
+            "owner": "nicolaka",
+            "repo": "netshoot",
+            "stars": 10932
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chromaterm",
+          "description": "ChromaTerm is a Python module and script used for coloring the output to terminals.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-19T19:33:52Z",
+            "owner": "hSaria",
+            "repo": "ChromaTerm",
+            "stars": 219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ops_tcpdump_handler",
+          "description": "Chef Cookbook to test network connectivity .",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2017-11-30T21:07:14Z",
+            "owner": "cerner",
+            "repo": "ops_tcpdump_handler",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "DevNet Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "netdata",
+          "description": "Distributed real-time performance and health monitoring.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T00:21:33Z",
+            "owner": "netdata",
+            "repo": "netdata",
+            "stars": 80154
+          }
+        },
+        {
+          "node_type": "group",
+          "title": "ELK Stack",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elasticsearch",
+              "description": "Open Source, Distributed, RESTful Search Engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-13T03:23:39Z",
+                "owner": "elastic",
+                "repo": "elasticsearch",
+                "stars": 77842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kibana",
+              "description": "Analytics and search dashboard for Elasticsearch.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "TypeScript",
+                "last_commit": "2026-08-13T04:09:16Z",
+                "owner": "elastic",
+                "repo": "kibana",
+                "stars": 21235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LogStash",
+              "description": "Transport and process your logs, events, or other data.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "Java",
+                "last_commit": "2026-08-12T21:30:27Z",
+                "owner": "elastic",
+                "repo": "logstash",
+                "stars": 14916
+              }
+            }
+          ]
+        }
+      ],
+      "title": "DevNet Monitoring"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:13.028Z",
+    "original_repository": "nyquist/awesome-networking",
+    "original_repository_sha": "006eb2d9cfc92d4ad449612123fdb7f136edd0cc",
+    "enhanced_repository": "enhansome/enhansome-networking",
+    "enhanced_repository_description": null,
+    "title": "Awesome Computer Networking Resources with stars"
+  }
+}
