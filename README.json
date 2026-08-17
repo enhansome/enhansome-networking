@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T22:57:34Z",
+            "last_commit": "2026-08-17T02:43:40Z",
             "owner": "firezone",
             "repo": "firezone",
-            "stars": 9025
+            "stars": 9035
           }
         },
         {
@@ -45,7 +45,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-15T22:30:22Z",
+            "last_commit": "2026-08-16T22:57:20Z",
             "owner": "arkime",
             "repo": "arkime",
             "stars": 7447
@@ -149,10 +149,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-15T19:45:36Z",
+            "last_commit": "2026-08-17T00:44:15Z",
             "owner": "batfish",
             "repo": "batfish",
-            "stars": 1452
+            "stars": 1453
           }
         },
         {
@@ -228,7 +228,7 @@
             "last_commit": "2026-08-11T21:53:38Z",
             "owner": "ansible",
             "repo": "ansible",
-            "stars": 70344
+            "stars": 70334
           }
         },
         {
@@ -239,10 +239,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T13:11:47Z",
+            "last_commit": "2026-08-17T00:05:02Z",
             "owner": "ansible",
             "repo": "awx",
-            "stars": 15528
+            "stars": 15525
           }
         },
         {
@@ -385,7 +385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T22:00:33Z",
+            "last_commit": "2026-08-16T16:58:53Z",
             "owner": "cisco-ai-defense",
             "repo": "defenseclaw",
             "stars": 819
@@ -399,10 +399,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T17:48:27Z",
+            "last_commit": "2026-08-16T22:31:48Z",
             "owner": "automateyournetwork",
             "repo": "netclaw",
-            "stars": 636
+            "stars": 635
           }
         }
       ],
@@ -648,7 +648,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T05:16:42Z",
+            "last_commit": "2026-08-16T18:39:33Z",
             "owner": "netbox-community",
             "repo": "netbox",
             "stars": 21318
@@ -662,7 +662,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T21:38:05Z",
+            "last_commit": "2026-08-16T17:33:11Z",
             "owner": "nautobot",
             "repo": "nautobot",
             "stars": 1576
@@ -690,10 +690,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T13:46:31Z",
+            "last_commit": "2026-08-17T00:48:38Z",
             "owner": "opsmill",
             "repo": "infrahub",
-            "stars": 501
+            "stars": 502
           }
         },
         {
@@ -724,10 +724,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T17:07:10Z",
+            "last_commit": "2026-08-16T20:02:07Z",
             "owner": "srl-labs",
             "repo": "containerlab",
-            "stars": 2740
+            "stars": 2741
           }
         },
         {
@@ -738,7 +738,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T16:39:18Z",
+            "last_commit": "2026-08-16T19:48:46Z",
             "owner": "ipspace",
             "repo": "netlab",
             "stars": 723
@@ -769,7 +769,7 @@
             "last_commit": "2023-07-24T19:35:04Z",
             "owner": "pnetlab",
             "repo": "pnetlab_main",
-            "stars": 79
+            "stars": 80
           }
         }
       ],
@@ -789,7 +789,7 @@
             "last_commit": "2026-07-01T17:14:17Z",
             "owner": "nicolaka",
             "repo": "netshoot",
-            "stars": 10940
+            "stars": 10941
           }
         },
         {
@@ -803,7 +803,7 @@
             "last_commit": "2026-07-01T17:14:17Z",
             "owner": "nicolaka",
             "repo": "netshoot",
-            "stars": 10940
+            "stars": 10941
           }
         },
         {
@@ -848,10 +848,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-16T00:11:27Z",
+            "last_commit": "2026-08-17T00:10:17Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80195
+            "stars": 80204
           }
         },
         {
@@ -867,10 +867,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-16T02:16:14Z",
+                "last_commit": "2026-08-17T02:31:23Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77832
+                "stars": 77840
               }
             },
             {
@@ -881,10 +881,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "TypeScript",
-                "last_commit": "2026-08-16T01:21:28Z",
+                "last_commit": "2026-08-16T18:34:15Z",
                 "owner": "elastic",
                 "repo": "kibana",
-                "stars": 21245
+                "stars": 21246
               }
             },
             {
@@ -898,7 +898,7 @@
                 "last_commit": "2026-08-14T22:45:19Z",
                 "owner": "elastic",
                 "repo": "logstash",
-                "stars": 14919
+                "stars": 14921
               }
             }
           ]
@@ -908,7 +908,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:44:21.293Z",
+    "last_updated": "2026-08-17T02:43:46.510Z",
     "original_repository": "nyquist/awesome-networking",
     "original_repository_sha": "006eb2d9cfc92d4ad449612123fdb7f136edd0cc",
     "enhanced_repository": "enhansome/enhansome-networking",
