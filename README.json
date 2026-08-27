@@ -36,7 +36,7 @@
                 "archived": false,
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T02:44:56Z",
+                "last_commit": "2026-08-27T11:45:41Z",
                 "owner": "firezone",
                 "repo": "firezone",
                 "stars": 9043
@@ -73,7 +73,7 @@
                 "archived": false,
                 "id": 4927517,
                 "language": "C",
-                "last_commit": "2026-08-25T21:25:18Z",
+                "last_commit": "2026-08-26T23:44:45Z",
                 "owner": "arkime",
                 "repo": "arkime",
                 "stars": 7459
@@ -179,7 +179,7 @@
                 "last_commit": "2026-08-24T23:23:58Z",
                 "owner": "ytti",
                 "repo": "oxidized",
-                "stars": 3528
+                "stars": 3529
               }
             },
             {
@@ -191,10 +191,10 @@
                 "archived": false,
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-26T02:27:24Z",
+                "last_commit": "2026-08-27T08:16:56Z",
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1459
+                "stars": 1460
               }
             },
             {
@@ -273,10 +273,10 @@
                 "archived": false,
                 "id": 3638964,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:55:28Z",
+                "last_commit": "2026-08-26T21:11:29Z",
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70464
+                "stars": 70479
               }
             },
             {
@@ -288,10 +288,10 @@
                 "archived": false,
                 "id": 91594105,
                 "language": "Python",
-                "last_commit": "2026-08-26T00:01:55Z",
+                "last_commit": "2026-08-27T00:01:54Z",
                 "owner": "ansible",
                 "repo": "awx",
-                "stars": 15536
+                "stars": 15537
               }
             },
             {
@@ -306,7 +306,7 @@
                 "last_commit": "2026-08-18T19:48:08Z",
                 "owner": "ktbyers",
                 "repo": "netmiko",
-                "stars": 4260
+                "stars": 4264
               }
             },
             {
@@ -318,7 +318,7 @@
                 "archived": false,
                 "id": 76636028,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:38:45Z",
+                "last_commit": "2026-08-26T07:18:38Z",
                 "owner": "nornir-automation",
                 "repo": "nornir",
                 "stars": 1613
@@ -336,7 +336,7 @@
                 "last_commit": "2026-08-24T03:00:40Z",
                 "owner": "networktocode",
                 "repo": "ntc-templates",
-                "stars": 1290
+                "stars": 1291
               }
             },
             {
@@ -351,7 +351,7 @@
                 "last_commit": "2025-04-17T04:16:34Z",
                 "owner": "google",
                 "repo": "textfsm",
-                "stars": 1246
+                "stars": 1247
               }
             },
             {
@@ -393,7 +393,7 @@
                 "archived": false,
                 "id": 168709547,
                 "language": "Python",
-                "last_commit": "2026-08-25T17:03:22Z",
+                "last_commit": "2026-08-27T11:08:13Z",
                 "owner": "SUNET",
                 "repo": "cnaas-nms",
                 "stars": 90
@@ -445,10 +445,10 @@
                 "archived": false,
                 "id": 1189087994,
                 "language": "Go",
-                "last_commit": "2026-08-26T02:33:46Z",
+                "last_commit": "2026-08-27T10:42:14Z",
                 "owner": "cisco-ai-defense",
                 "repo": "defenseclaw",
-                "stars": 825
+                "stars": 826
               }
             },
             {
@@ -463,7 +463,7 @@
                 "last_commit": "2026-08-24T15:59:25Z",
                 "owner": "automateyournetwork",
                 "repo": "netclaw",
-                "stars": 643
+                "stars": 644
               }
             }
           ],
@@ -728,10 +728,10 @@
                 "archived": false,
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-25T20:28:45Z",
+                "last_commit": "2026-08-26T19:31:37Z",
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21375
+                "stars": 21399
               }
             },
             {
@@ -743,10 +743,10 @@
                 "archived": false,
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-25T21:59:25Z",
+                "last_commit": "2026-08-26T22:08:29Z",
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1584
+                "stars": 1586
               }
             },
             {
@@ -773,7 +773,7 @@
                 "archived": false,
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:04:54Z",
+                "last_commit": "2026-08-27T11:50:53Z",
                 "owner": "opsmill",
                 "repo": "infrahub",
                 "stars": 507
@@ -810,10 +810,10 @@
                 "archived": false,
                 "id": 290960521,
                 "language": "Go",
-                "last_commit": "2026-08-25T18:33:37Z",
+                "last_commit": "2026-08-26T17:34:43Z",
                 "owner": "srl-labs",
                 "repo": "containerlab",
-                "stars": 2775
+                "stars": 2778
               }
             },
             {
@@ -825,10 +825,10 @@
                 "archived": false,
                 "id": 320043315,
                 "language": "Python",
-                "last_commit": "2026-08-25T10:57:18Z",
+                "last_commit": "2026-08-27T09:33:40Z",
                 "owner": "ipspace",
                 "repo": "netlab",
-                "stars": 729
+                "stars": 731
               }
             },
             {
@@ -886,7 +886,7 @@
                 "last_commit": "2026-07-01T17:14:17Z",
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 10955
+                "stars": 10959
               }
             },
             {
@@ -901,7 +901,7 @@
                 "last_commit": "2026-07-01T17:14:17Z",
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 10955
+                "stars": 10959
               }
             },
             {
@@ -950,10 +950,10 @@
                 "archived": false,
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-26T00:11:42Z",
+                "last_commit": "2026-08-27T11:27:02Z",
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80301
+                "stars": 80320
               }
             },
             {
@@ -970,10 +970,10 @@
                     "archived": false,
                     "id": 507775,
                     "language": "Java",
-                    "last_commit": "2026-08-26T02:26:55Z",
+                    "last_commit": "2026-08-27T11:46:14Z",
                     "owner": "elastic",
                     "repo": "elasticsearch",
-                    "stars": 77863
+                    "stars": 77869
                   }
                 },
                 {
@@ -985,10 +985,10 @@
                     "archived": false,
                     "id": 7833168,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T01:32:38Z",
+                    "last_commit": "2026-08-27T11:52:07Z",
                     "owner": "elastic",
                     "repo": "kibana",
-                    "stars": 21257
+                    "stars": 21265
                   }
                 },
                 {
@@ -1000,10 +1000,10 @@
                     "archived": false,
                     "id": 1090311,
                     "language": "Java",
-                    "last_commit": "2026-08-25T15:18:30Z",
+                    "last_commit": "2026-08-26T16:00:39Z",
                     "owner": "elastic",
                     "repo": "logstash",
-                    "stars": 14922
+                    "stars": 14927
                   }
                 }
               ]
@@ -1018,9 +1018,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:49:07.236Z",
-    "original_repository": "nyquist/awesome-networking",
-    "original_repository_id": 120031407,
+    "last_updated": "2026-08-27T11:54:06.981Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 120031407,
+      "language": null,
+      "last_commit": "2026-06-27T18:41:51Z",
+      "owner": "nyquist",
+      "repo": "awesome-networking",
+      "stars": 708
+    },
     "original_repository_sha": "006eb2d9cfc92d4ad449612123fdb7f136edd0cc",
     "enhanced_repository": "enhansome/enhansome-networking",
     "enhanced_repository_description": null,
