@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snabb: Simple and fast packet networking",
+                "homepage": null,
                 "id": 4857740,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T10:02:42Z",
+                "open_issues": 15,
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3032
+                "stars": 3032,
+                "topics": [
+                  "luajit",
+                  "networking",
+                  "nfv-framework",
+                  "userspace-driver",
+                  "userspace-networking"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -35,12 +46,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Enterprise-ready zero-trust access platform built on WireGuard®.",
+                "homepage": "https://www.firezone.dev",
                 "id": 257787813,
                 "language": "Elixir",
-                "last_commit": "2026-08-28T13:08:50Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:19:14Z",
+                "open_issues": 403,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9043
+                "stars": 9045,
+                "topics": [
+                  "cloud",
+                  "devsecops",
+                  "elixir",
+                  "elixir-lang",
+                  "liveview",
+                  "network",
+                  "network-security",
+                  "networking",
+                  "phoenix",
+                  "privacy",
+                  "rust-lang",
+                  "security",
+                  "virtual-network",
+                  "vpn",
+                  "vpn-server",
+                  "wireguard",
+                  "wireguard-ui",
+                  "wireguard-vpn"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -51,12 +86,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pilot Protocol: The Internet of Agents",
+                "homepage": "https://pilotprotocol.network",
                 "id": 1151848125,
                 "language": "Go",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-28T03:36:15Z",
+                "open_issues": 8,
                 "owner": "pilot-protocol",
                 "repo": "pilotprotocol",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "a2a",
+                  "agent-communication",
+                  "agent-protocol",
+                  "ai-agents",
+                  "decentralized",
+                  "encryption",
+                  "go",
+                  "infrastructure",
+                  "mcp-alternative",
+                  "nat-traversal",
+                  "networking",
+                  "overlay-network",
+                  "peer-to-peer",
+                  "protocol",
+                  "trust",
+                  "udp",
+                  "virtual-addresses"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -74,12 +132,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arkime is an open source, large scale, full packet capturing, indexing, and database system.",
+                "homepage": "https://arkime.com",
                 "id": 4927517,
                 "language": "C",
-                "last_commit": "2026-08-27T22:00:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T21:07:01Z",
+                "open_issues": 34,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7459
+                "stars": 7459,
+                "topics": [
+                  "big-data",
+                  "c",
+                  "javascript",
+                  "network-monitoring",
+                  "nsm",
+                  "packet-capture",
+                  "pcap",
+                  "security"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -90,12 +162,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snabb: Simple and fast packet networking",
+                "homepage": null,
                 "id": 4857740,
                 "language": "Lua",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-30T10:02:42Z",
+                "open_issues": 15,
                 "owner": "snabbco",
                 "repo": "snabb",
-                "stars": 3032
+                "stars": 3032,
+                "topics": [
+                  "luajit",
+                  "networking",
+                  "nfv-framework",
+                  "userspace-driver",
+                  "userspace-networking"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -106,12 +189,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Vagrant projects for vQFX10k",
+                "homepage": null,
                 "id": 46591408,
                 "language": "HTML",
+                "license": "Apache-2.0",
                 "last_commit": "2020-11-21T02:31:19Z",
+                "open_issues": 22,
                 "owner": "Juniper",
                 "repo": "vqfx10k-vagrant",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -122,12 +210,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-Generator (MGEN) traffic generation tool",
+                "homepage": "https://www.nrl.navy.mil/itd/ncs/products/mgen",
                 "id": 207552781,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2025-10-02T12:23:37Z",
+                "open_issues": 10,
                 "owner": "USNavalResearchLaboratory",
                 "repo": "mgen",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "mgen",
+                  "traffic-generator"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -138,12 +234,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Packet communication investigator",
+                "homepage": null,
                 "id": 218328693,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-06-15T23:56:30Z",
+                "open_issues": 4,
                 "owner": "michoo",
                 "repo": "pci",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "graph",
+                  "neo4j",
+                  "pcap",
+                  "pcap-analyzer",
+                  "python3",
+                  "security",
+                  "security-audit",
+                  "security-tools",
+                  "tshark"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -154,12 +265,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Artificially limit uplink and downlink bandwidth, delay and loss rate on selected interfaces",
+                "homepage": null,
                 "id": 68191995,
                 "language": "Shell",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-27T18:46:18Z",
+                "open_issues": 1,
                 "owner": "marty90",
                 "repo": "Network-Conditions-Emulator",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -183,12 +299,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oxidized is a network device configuration backup tool. It's a RANCID replacement!",
+                "homepage": null,
                 "id": 9500075,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T23:23:04Z",
+                "open_issues": 66,
                 "owner": "ytti",
                 "repo": "oxidized",
-                "stars": 3533
+                "stars": 3534,
+                "topics": [
+                  "backup",
+                  "network",
+                  "nms",
+                  "rancid"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -199,12 +325,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches.",
+                "homepage": "http://www.batfish.org",
                 "id": 27507850,
                 "language": "Java",
-                "last_commit": "2026-08-27T23:50:59Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:13:47Z",
+                "open_issues": 279,
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1460
+                "stars": 1460,
+                "topics": [
+                  "configuration",
+                  "configuration-analysis",
+                  "configuration-parser",
+                  "network",
+                  "network-analysis",
+                  "network-automation",
+                  "network-security",
+                  "network-validation",
+                  "network-verification"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -215,12 +356,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.",
+                "homepage": null,
                 "id": 60642086,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2023-11-02T21:43:49Z",
+                "open_issues": 1,
                 "owner": "udhos",
                 "repo": "jazigo",
-                "stars": 230
+                "stars": 230,
+                "topics": [
+                  "aws-s3",
+                  "backup",
+                  "cisco",
+                  "config-management",
+                  "go",
+                  "network-admin"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -231,12 +384,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Network device configuration backups and change alerts for the 21st century - inspired by RANCID!",
+                "homepage": null,
                 "id": 21957828,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2017-04-17T02:47:26Z",
+                "open_issues": 13,
                 "owner": "AppliedTrust",
                 "repo": "sweet",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -247,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Stockpile Your Network Device Configurations - A Python/Nornir Based Network Device Backup Tool",
+                "homepage": null,
                 "id": 232170135,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2020-05-15T18:53:52Z",
+                "open_issues": 10,
                 "owner": "lykinsbd",
                 "repo": "stockpiler",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -263,12 +426,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fetchconfig is a Perl script for retrieving configuration of multiple devices",
+                "homepage": null,
                 "id": 29264791,
                 "language": "Perl",
+                "license": "GPL-2.0",
                 "last_commit": "2017-02-01T17:27:54Z",
+                "open_issues": 1,
                 "owner": "udhos",
                 "repo": "fetchconfig",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -286,12 +454,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+                "homepage": "https://www.ansible.com/",
                 "id": 3638964,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T14:26:26Z",
+                "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70487
+                "stars": 70491,
+                "topics": [
+                  "ansible",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -302,12 +478,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.",
+                "homepage": null,
                 "id": 91594105,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:02:06Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T13:18:22Z",
+                "open_issues": 1861,
                 "owner": "ansible",
                 "repo": "awx",
-                "stars": 15537
+                "stars": 15539,
+                "topics": [
+                  "ansible",
+                  "automation",
+                  "awx",
+                  "django",
+                  "django-rest-framework",
+                  "hacktoberfest",
+                  "python",
+                  "reactjs"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -318,12 +508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Multi-vendor library to simplify Paramiko SSH connections to network devices",
+                "homepage": null,
                 "id": 27283062,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T19:48:08Z",
+                "open_issues": 61,
                 "owner": "ktbyers",
                 "repo": "netmiko",
-                "stars": 4264
+                "stars": 4264,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -334,12 +529,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pluggable multi-threaded framework with inventory management to help operate collections of devices",
+                "homepage": "https://nornir.readthedocs.io/",
                 "id": 76636028,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:16:08Z",
+                "open_issues": 55,
                 "owner": "nornir-automation",
                 "repo": "nornir",
-                "stars": 1614
+                "stars": 1614,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -350,12 +550,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TextFSM templates for parsing show commands of network devices",
+                "homepage": "https://ntc-templates.readthedocs.io/",
                 "id": 57225950,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T03:00:40Z",
+                "open_issues": 42,
                 "owner": "networktocode",
                 "repo": "ntc-templates",
-                "stars": 1291
+                "stars": 1291,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -366,12 +571,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python module for parsing semi-structured text into python tables.",
+                "homepage": null,
                 "id": 37888429,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-04-17T04:16:34Z",
+                "open_issues": 16,
                 "owner": "google",
                 "repo": "textfsm",
-                "stars": 1247
+                "stars": 1247,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -382,12 +592,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Trigger is a robust network automation toolkit written in Python that was designed for interfacing with network devices.",
+                "homepage": "trigger.readthedocs.org",
                 "id": 3575995,
                 "language": "Python",
-                "last_commit": "2026-08-09T11:03:54Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T20:55:42Z",
+                "open_issues": 64,
                 "owner": "trigger",
                 "repo": "trigger",
-                "stars": 559
+                "stars": 559,
+                "topics": [
+                  "acls",
+                  "network-automation",
+                  "network-engineers",
+                  "networking",
+                  "networking-programmability",
+                  "python",
+                  "systems"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -398,12 +621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template Text Parser",
+                "homepage": null,
                 "id": 216000389,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-24T11:15:39Z",
+                "open_issues": 44,
                 "owner": "dmulyalin",
                 "repo": "ttp",
-                "stars": 391
+                "stars": 391,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -414,12 +642,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Campus Network as-a-Service - Network Management System (Campus network automation software)",
+                "homepage": null,
                 "id": 168709547,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T12:38:31Z",
+                "open_issues": 33,
                 "owner": "SUNET",
                 "repo": "cnaas-nms",
-                "stars": 90
+                "stars": 90,
+                "topics": [
+                  "automation",
+                  "network",
+                  "network-automation",
+                  "network-programming"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -430,12 +668,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Port of google's textfsm library from python to golang",
+                "homepage": null,
                 "id": 286200454,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T14:54:34Z",
+                "open_issues": 0,
                 "owner": "sirikothe",
                 "repo": "gotextfsm",
-                "stars": 70
+                "stars": 70,
+                "topics": [
+                  "go",
+                  "golang",
+                  "textfsm"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -446,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Git Operations for Network Automation",
+                "homepage": null,
                 "id": 511755984,
                 "language": "HCL",
+                "license": "MIT",
                 "last_commit": "2026-05-31T11:42:57Z",
+                "open_issues": 1,
                 "owner": "mcgonagle",
                 "repo": "GitNops",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -469,12 +721,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Security Governance for Agentic AI",
+                "homepage": "https://cisco-ai-defense.github.io/defenseclaw/",
                 "id": 1189087994,
                 "language": "Go",
-                "last_commit": "2026-08-28T07:33:12Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:22:38Z",
+                "open_issues": 56,
                 "owner": "cisco-ai-defense",
                 "repo": "defenseclaw",
-                "stars": 829
+                "stars": 829,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -485,12 +742,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An AI agent that claws through your network",
+                "homepage": null,
                 "id": 1161938470,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T15:59:25Z",
+                "open_issues": 1,
                 "owner": "automateyournetwork",
                 "repo": "netclaw",
-                "stars": 645
+                "stars": 645,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -508,12 +770,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Network flow analytics (Netflow, sFlow and IPFIX) with the Elastic Stack",
+                "homepage": null,
                 "id": 90005814,
                 "language": "Shell",
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-22T22:03:16Z",
+                "open_issues": 1,
                 "owner": "robcowart",
                 "repo": "elastiflow",
-                "stars": 2511
+                "stars": 2511,
+                "topics": [
+                  "elasticsearch",
+                  "elk",
+                  "ipfix",
+                  "kibana",
+                  "logstash",
+                  "netflow",
+                  "sflow"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -524,12 +799,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": " Enterprise Network Flow Collector (IPFIX, sFlow, Netflow) ",
+                "homepage": "http://www.verizonmedia.com",
                 "id": 83084202,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-22T13:29:15Z",
+                "open_issues": 71,
                 "owner": "Edgio",
                 "repo": "vflow",
-                "stars": 1155
+                "stars": 1155,
+                "topics": [
+                  "cisco",
+                  "golang",
+                  "ipfix",
+                  "ipv4",
+                  "ipv6",
+                  "juniper",
+                  "kafka",
+                  "kubernetes",
+                  "monitoring",
+                  "netflow",
+                  "network",
+                  "sflow"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -540,12 +833,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "BGP and RPKI monitoring tool. Pre-configured for real-time detection of visibility loss, RPKI invalid announcements, hijacks, ROA misconfiguration, and more.",
+                "homepage": null,
                 "id": 197530275,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-28T03:22:26Z",
+                "open_issues": 10,
                 "owner": "nttgin",
                 "repo": "BGPalerter",
-                "stars": 1011
+                "stars": 1011,
+                "topics": [
+                  "bgp",
+                  "internet",
+                  "monitoring",
+                  "network",
+                  "rpki"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -556,12 +860,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The high-scalability sFlow/NetFlow/IPFIX collector used internally at Cloudflare.",
+                "homepage": null,
                 "id": 123599091,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-02-19T15:21:52Z",
+                "open_issues": 35,
                 "owner": "cloudflare",
                 "repo": "goflow",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "cisco",
+                  "flow",
+                  "go",
+                  "ipfix",
+                  "juniper",
+                  "kafka",
+                  "netflow",
+                  "sflow"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -572,12 +890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "vaping is a healthy alternative to SmokePing!",
+                "homepage": null,
                 "id": 65013811,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-12-20T21:49:54Z",
+                "open_issues": 48,
                 "owner": "20c",
                 "repo": "vaping",
-                "stars": 539
+                "stars": 539,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -588,12 +911,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A distributed network assurance platform",
+                "homepage": null,
                 "id": 53824369,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2021-10-07T01:10:49Z",
+                "open_issues": 51,
                 "owner": "toddproject",
                 "repo": "todd",
-                "stars": 235
+                "stars": 235,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -604,12 +932,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "XPRESSO: the standard pyATS UI Dashboard",
+                "homepage": null,
                 "id": 278467580,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2022-03-09T14:24:22Z",
+                "open_issues": 5,
                 "owner": "CiscoTestAutomation",
                 "repo": "xpresso",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "cisco",
+                  "dashboard",
+                  "docker",
+                  "docker-compose",
+                  "network-automation",
+                  "pyats",
+                  "xpresso"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -620,12 +961,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UDPing measures latency and packet loss across a link.",
+                "homepage": null,
                 "id": 90413887,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-12T18:36:38Z",
+                "open_issues": 4,
                 "owner": "yahoo",
                 "repo": "UDPing",
-                "stars": 85
+                "stars": 85,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -636,12 +982,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "History of all changes in OSPF Topology",
+                "homepage": "https://topolograph.com/ospf-isis-monitoring",
                 "id": 420008585,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-19T23:56:53Z",
+                "open_issues": 8,
                 "owner": "Vadims06",
                 "repo": "ospfwatcher",
-                "stars": 85
+                "stars": 85,
+                "topics": [
+                  "clab-topo",
+                  "elk",
+                  "monitoring",
+                  "network",
+                  "network-analysis",
+                  "ospf",
+                  "ospf-monitoring",
+                  "topolograph",
+                  "topology-management"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -652,12 +1013,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rusty Klock Inspection Kit - NTP / NTS Querying tool",
+                "homepage": null,
                 "id": 984602842,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-07-10T14:09:27Z",
+                "open_issues": 3,
                 "owner": "aguacero7",
                 "repo": "rkik",
-                "stars": 59
+                "stars": 59,
+                "topics": [
+                  "crates-io",
+                  "diagnostics",
+                  "linux-networking",
+                  "monitoring-tool",
+                  "networking",
+                  "ntp",
+                  "ntp-client",
+                  "ntp-monitoring",
+                  "rust",
+                  "rust-tool"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -668,12 +1045,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "History of changes in IS-IS domain",
+                "homepage": "https://topolograph.com/ospf-isis-monitoring",
                 "id": 746351280,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-19T23:57:04Z",
+                "open_issues": 1,
                 "owner": "Vadims06",
                 "repo": "isiswatcher",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "clab-topo",
+                  "frr",
+                  "frrouting",
+                  "is-is",
+                  "netdev",
+                  "network-analysis",
+                  "xdp"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -684,12 +1074,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Network tool used for extracting flow data from PCAP files ",
+                "homepage": null,
                 "id": 1059595685,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-19T11:54:07Z",
+                "open_issues": 0,
                 "owner": "Collgamer0008",
                 "repo": "NexusFlowMeter",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -707,12 +1102,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Python scriptable Reverse Engineering Sandbox, a Virtual Machine instrumentation and inspection framework based on QEMU",
+                "homepage": "https://talosintelligence.com/pyrebox",
                 "id": 96552939,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2024-02-14T14:54:36Z",
+                "open_issues": 26,
                 "owner": "Cisco-Talos",
                 "repo": "pyrebox",
-                "stars": 1683
+                "stars": 1683,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -723,12 +1123,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Malcolm is a powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.",
+                "homepage": "https://idaholab.github.io/Malcolm/",
                 "id": 294175067,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T22:26:09Z",
+                "open_issues": 2,
                 "owner": "idaholab",
                 "repo": "Malcolm",
-                "stars": 478
+                "stars": 478,
+                "topics": [
+                  "arkime",
+                  "cybersecurity",
+                  "infosec",
+                  "network-security",
+                  "network-traffic-analysis",
+                  "networksecurity",
+                  "networktrafficanalysis",
+                  "opensearch",
+                  "opensearch-dashboards",
+                  "pcap",
+                  "security",
+                  "suricata",
+                  "zeek"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -744,12 +1163,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python application to filter and transfer Zeek logs to Elastic/OpenSearch+Humio.  This app can also output pure JSON logs to stdout for further processing!",
+                    "homepage": null,
                     "id": 442491504,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2022-08-18T13:23:02Z",
+                    "open_issues": 0,
                     "owner": "corelight",
                     "repo": "zeek2es",
-                    "stars": 40
+                    "stars": 40,
+                    "topics": [
+                      "elasticsearch",
+                      "humio",
+                      "kibana",
+                      "opensearch",
+                      "python",
+                      "zeek"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:16:06.450Z"
                 }
@@ -769,12 +1200,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The premier source of truth powering network automation. Open source under Apache 2. Try NetBox Cloud free: https://netboxlabs.com/products/free-netbox-cloud/",
+                "homepage": "https://netboxlabs.com/products/netbox/",
                 "id": 52796596,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:50:58Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:18:10Z",
+                "open_issues": 196,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21405
+                "stars": 21407,
+                "topics": [
+                  "cabling",
+                  "dcim",
+                  "django",
+                  "infrastructure-management",
+                  "ipam",
+                  "netbox",
+                  "network",
+                  "network-automation",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -785,12 +1231,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network Source of Truth & Network Automation Platform",
+                "homepage": "https://docs.nautobot.com",
                 "id": 340499469,
                 "language": "Python",
-                "last_commit": "2026-08-28T12:38:48Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T22:44:04Z",
+                "open_issues": 1005,
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1587
+                "stars": 1588,
+                "topics": [
+                  "dcim",
+                  "hacktoberfest",
+                  "ipam",
+                  "nautobot",
+                  "network-automation",
+                  "python",
+                  "sot"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -801,12 +1260,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "drawthe.net draws network diagrams dynamically from a text file describing the placement, layout and icons. Given a yaml file describing the hierarchy of the network and it's connections, a resulting diagram will be created.",
+                "homepage": "http://go.drawthe.net",
                 "id": 68706944,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2024-03-19T08:34:34Z",
+                "open_issues": 18,
                 "owner": "cidrblock",
                 "repo": "drawthe.net",
-                "stars": 1182
+                "stars": 1182,
+                "topics": [
+                  "diagram",
+                  "icons",
+                  "network"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -817,12 +1285,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.",
+                "homepage": "https://docs.infrahub.app/",
                 "id": 528799794,
                 "language": "Python",
-                "last_commit": "2026-08-28T13:00:00Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:19:59Z",
+                "open_issues": 498,
                 "owner": "opsmill",
                 "repo": "infrahub",
-                "stars": 508
+                "stars": 508,
+                "topics": [
+                  "cicd",
+                  "dcim",
+                  "devops",
+                  "gitops",
+                  "graph-database",
+                  "infrastructure-as-code",
+                  "ipam",
+                  "network-automation",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -833,12 +1316,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Network Source of Truth is an open source IPAM and network inventory database",
+                "homepage": "https://nsot.readthedocs.io",
                 "id": 28201627,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-13T15:09:43Z",
+                "open_issues": 64,
                 "owner": "dropbox",
                 "repo": "nsot",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "django",
+                  "django-rest-framework",
+                  "ip-address",
+                  "ipam",
+                  "network-admin",
+                  "network-engineers",
+                  "network-inventory",
+                  "network-monitoring",
+                  "networking",
+                  "python",
+                  "source-of-truth",
+                  "ssot"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -856,12 +1357,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "container-based networking labs",
+                "homepage": "https://containerlab.dev",
                 "id": 290960521,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T10:58:38Z",
+                "open_issues": 48,
                 "owner": "srl-labs",
                 "repo": "containerlab",
-                "stars": 2779
+                "stars": 2780,
+                "topics": [
+                  "ceos",
+                  "containerlab",
+                  "containers",
+                  "lab-orchestration",
+                  "lab-topologies",
+                  "labs",
+                  "network-automation",
+                  "networking",
+                  "networking-labs",
+                  "sonic",
+                  "srlinux"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -872,12 +1390,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Making virtual networking labs suck less",
+                "homepage": "https://netlab.tools",
                 "id": 320043315,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:33:40Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-28T15:35:47Z",
+                "open_issues": 27,
                 "owner": "ipspace",
                 "repo": "netlab",
-                "stars": 731
+                "stars": 732,
+                "topics": [
+                  "containerlab",
+                  "labs",
+                  "libvirt",
+                  "networking",
+                  "vagrant"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -888,12 +1417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community Contributed Content and Resources for Cisco Modeling Labs",
+                "homepage": null,
                 "id": 267865322,
                 "language": "Shell",
-                "last_commit": "2026-08-06T16:19:43Z",
+                "license": "BSD-3-Clause",
+                "last_commit": "2026-08-28T14:51:20Z",
+                "open_issues": 4,
                 "owner": "CiscoDevNet",
                 "repo": "cml-community",
-                "stars": 639
+                "stars": 641,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -904,12 +1438,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors.",
+                "homepage": "https://pnetlab.com/pages/main",
                 "id": 625238048,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2023-07-24T19:35:04Z",
+                "open_issues": 3,
                 "owner": "pnetlab",
                 "repo": "pnetlab_main",
-                "stars": 81
+                "stars": 81,
+                "topics": [
+                  "network",
+                  "simulation"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -933,12 +1475,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
+                "homepage": null,
                 "id": 66426242,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-01T17:14:17Z",
+                "open_issues": 43,
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 10961
+                "stars": 10962,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "network",
+                  "network-namespace",
+                  "troubleshooting"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -949,12 +1503,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a Docker + Kubernetes network trouble-shooting swiss-army container",
+                "homepage": null,
                 "id": 66426242,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-01T17:14:17Z",
+                "open_issues": 43,
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 10961
+                "stars": 10962,
+                "topics": [
+                  "containers",
+                  "docker",
+                  "kubernetes",
+                  "network",
+                  "network-namespace",
+                  "troubleshooting"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -965,12 +1531,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Color your Terminal with RegEx!",
+                "homepage": null,
                 "id": 130559700,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-09-19T19:33:52Z",
+                "open_issues": 0,
                 "owner": "hSaria",
                 "repo": "ChromaTerm",
-                "stars": 219
+                "stars": 219,
+                "topics": [
+                  "color",
+                  "highlight",
+                  "regex"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -981,12 +1556,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Report handler for local testing that prints out the tcp traffic from the run",
+                "homepage": null,
                 "id": 38646907,
                 "language": "Ruby",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-30T21:07:14Z",
+                "open_issues": 0,
                 "owner": "cerner",
                 "repo": "ops_tcpdump_handler",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             }
@@ -1004,12 +1584,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The fastest path to AI-powered full stack observability, even for lean teams.",
+                "homepage": "https://www.netdata.cloud",
                 "id": 10744183,
                 "language": "Go",
-                "last_commit": "2026-08-28T11:23:48Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T00:21:19Z",
+                "open_issues": 387,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80331
+                "stars": 80343,
+                "topics": [
+                  "ai",
+                  "alerting",
+                  "cncf",
+                  "data-visualization",
+                  "database",
+                  "devops",
+                  "docker",
+                  "grafana",
+                  "influxdb",
+                  "kubernetes",
+                  "linux",
+                  "machine-learning",
+                  "mcp",
+                  "mongodb",
+                  "monitoring",
+                  "mysql",
+                  "netdata",
+                  "observability",
+                  "postgresql",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
             },
@@ -1025,12 +1631,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                    "homepage": "https://www.elastic.co/products/elasticsearch",
                     "id": 507775,
                     "language": "Java",
-                    "last_commit": "2026-08-28T13:15:33Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:36:17Z",
+                    "open_issues": 5998,
                     "owner": "elastic",
                     "repo": "elasticsearch",
-                    "stars": 77873
+                    "stars": 77877,
+                    "topics": [
+                      "elasticsearch",
+                      "java",
+                      "search-engine"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:16:06.450Z"
                 },
@@ -1041,12 +1656,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Your window into all of your data",
+                    "homepage": "https://www.elastic.co/products/kibana",
                     "id": 7833168,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-28T13:15:13Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:08:29Z",
+                    "open_issues": 14308,
                     "owner": "elastic",
                     "repo": "kibana",
-                    "stars": 21266
+                    "stars": 21270,
+                    "topics": [
+                      "dashboards",
+                      "elasticsearch",
+                      "hacktoberfest",
+                      "kibana",
+                      "metrics",
+                      "observability",
+                      "visualizations"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:16:06.450Z"
                 },
@@ -1057,12 +1685,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Logstash - transport and process your logs, events, or other data",
+                    "homepage": "https://www.elastic.co/products/logstash",
                     "id": 1090311,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T08:47:10Z",
+                    "open_issues": 2255,
                     "owner": "elastic",
                     "repo": "logstash",
-                    "stars": 14927
+                    "stars": 14927,
+                    "topics": [
+                      "etl-framework",
+                      "java",
+                      "jruby",
+                      "logging",
+                      "real-time-processing",
+                      "streaming"
+                    ]
                   },
                   "first_seen": "2026-08-28T13:16:06.450Z"
                 }
@@ -1078,15 +1718,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T13:16:06.450Z",
+    "last_updated": "2026-08-29T04:37:42.247Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of awesome computer networking resources",
+      "homepage": null,
       "id": 120031407,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-27T18:41:51Z",
+      "open_issues": 20,
       "owner": "nyquist",
       "repo": "awesome-networking",
-      "stars": 709
+      "stars": 709,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "monitoring",
+        "network-management",
+        "networking"
+      ]
     },
     "original_repository_sha": "006eb2d9cfc92d4ad449612123fdb7f136edd0cc",
     "enhanced_repository": "enhansome/enhansome-networking",
