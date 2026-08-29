@@ -1,6 +1,6 @@
 # Awesome Computer Networking Resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 of resources to design, implement and operate computer networks.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,937 | 🐛 105 | 📅 2026-08-21 of resources to design, implement and operate computer networks.
 
 # Contents
 
@@ -51,8 +51,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 10
 
 ## VPN
 
-* [Firezone](https://github.com/firezone/firezone) ⭐ 9,045 | 🐛 403 | 🌐 Elixir | 📅 2026-08-29 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
-* [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) ⭐ 133 | 🐛 8 | 🌐 Go | 📅 2026-08-28 - Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.
+* [Firezone](https://github.com/firezone/firezone) ⭐ 9,044 | 🐛 407 | 🌐 Elixir | 📅 2026-08-29 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+* [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) ⭐ 133 | 🐛 8 | 🌐 Go | 📅 2026-08-29 - Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.
 * [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
 ## Network Services
@@ -161,7 +161,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 10
 
 ## Network Inventory
 
-* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,407 | 🐛 196 | 🌐 Python | 📅 2026-08-28 - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,410 | 🐛 197 | 🌐 Python | 📅 2026-08-29 - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
 * [nautobot](https://github.com/nautobot/nautobot) ⭐ 1,588 | 🐛 1,005 | 🌐 Python | 📅 2026-08-28 - Network Source of Truth & Network Automation Platform.
 * [drawthe.net](https://github.com/cidrblock/drawthe.net) ⭐ 1,182 | 🐛 18 | 🌐 JavaScript | 📅 2024-03-19 - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
 * [infrahub](https://github.com/opsmill/infrahub) ⭐ 508 | 🐛 498 | 🌐 Python | 📅 2026-08-28 -  Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
@@ -184,8 +184,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 10
 
 ## DevNet Tools
 
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,962 | 🐛 43 | 🌐 Shell | 📅 2026-07-01 - a Docker + Kubernetes network trouble-shooting swiss-army container.
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,962 | 🐛 43 | 🌐 Shell | 📅 2026-07-01 - a Docker + Kubernetes network trouble-shooting swiss-army container.
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,963 | 🐛 43 | 🌐 Shell | 📅 2026-07-01 - a Docker + Kubernetes network trouble-shooting swiss-army container.
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 10,963 | 🐛 43 | 🌐 Shell | 📅 2026-07-01 - a Docker + Kubernetes network trouble-shooting swiss-army container.
 * [chromaterm](https://github.com/hSaria/ChromaTerm) ⚠️ Archived - ChromaTerm is a Python module and script used for coloring the output to terminals.
 * [ops\_tcpdump\_handler](https://github.com/cerner/ops_tcpdump_handler) ⚠️ Archived - Chef Cookbook to test network connectivity .
 * [Celery](http://www.celeryproject.org/) - Asynchronous task queue/job queue based on distributed message passing. It is focused on real-time operation, but supports scheduling as well.
@@ -202,14 +202,14 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 10
 
 ## DevNet Monitoring
 
-* [netdata](https://github.com/firehol/netdata) ⭐ 80,343 | 🐛 387 | 🌐 Go | 📅 2026-08-29 - Distributed real-time performance and health monitoring.
+* [netdata](https://github.com/firehol/netdata) ⭐ 80,342 | 🐛 386 | 🌐 Go | 📅 2026-08-29 - Distributed real-time performance and health monitoring.
 * [Grafana](https://grafana.com/) - Open source software for time series analytics.
 * [monit](https://mmonit.com/monit/) -Small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
 * [Prometheus](https://prometheus.io/) - Open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 * [sensu](https://sensuapp.org/) - Monitor servers, services, application health, and business KPIs. Collect and analyze custom metrics. Get notified about failures before your users do. Give your business the competitive advantage it deserves. (Open Source or Commercial).
 * ELK Stack
-  * [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,877 | 🐛 5,998 | 🌐 Java | 📅 2026-08-29 - Open Source, Distributed, RESTful Search Engine.
-  * [Kibana](https://github.com/elastic/kibana) ⭐ 21,270 | 🐛 14,308 | 🌐 TypeScript | 📅 2026-08-29 - Analytics and search dashboard for Elasticsearch.
+  * [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,875 | 🐛 6,004 | 🌐 Java | 📅 2026-08-29 - Open Source, Distributed, RESTful Search Engine.
+  * [Kibana](https://github.com/elastic/kibana) ⭐ 21,270 | 🐛 14,296 | 🌐 TypeScript | 📅 2026-08-29 - Analytics and search dashboard for Elasticsearch.
   * [LogStash](https://github.com/elastic/logstash) ⭐ 14,927 | 🐛 2,255 | 🌐 Java | 📅 2026-08-28 - Transport and process your logs, events, or other data.
 * [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day).
 
