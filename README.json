@@ -51,11 +51,11 @@
                 "id": 257787813,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-20T05:09:04Z",
-                "open_issues": 389,
+                "last_commit": "2026-09-21T06:52:35Z",
+                "open_issues": 402,
                 "owner": "firezone",
                 "repo": "firezone",
-                "stars": 9100,
+                "stars": 9102,
                 "topics": [
                   "cloud",
                   "devsecops",
@@ -139,7 +139,7 @@
                 "open_issues": 38,
                 "owner": "arkime",
                 "repo": "arkime",
-                "stars": 7471,
+                "stars": 7473,
                 "topics": [
                   "big-data",
                   "c",
@@ -306,7 +306,7 @@
                 "open_issues": 66,
                 "owner": "ytti",
                 "repo": "oxidized",
-                "stars": 3581,
+                "stars": 3587,
                 "topics": [
                   "backup",
                   "network",
@@ -328,11 +328,11 @@
                 "id": 27507850,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T11:02:45Z",
-                "open_issues": 279,
+                "last_commit": "2026-09-21T00:43:55Z",
+                "open_issues": 280,
                 "owner": "batfish",
                 "repo": "batfish",
-                "stars": 1477,
+                "stars": 1479,
                 "topics": [
                   "configuration",
                   "configuration-analysis",
@@ -461,7 +461,7 @@
                 "open_issues": 836,
                 "owner": "ansible",
                 "repo": "ansible",
-                "stars": 70741,
+                "stars": 70752,
                 "topics": [
                   "ansible",
                   "python"
@@ -481,11 +481,11 @@
                 "id": 91594105,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T12:32:49Z",
+                "last_commit": "2026-09-21T00:02:14Z",
                 "open_issues": 1872,
                 "owner": "ansible",
                 "repo": "awx",
-                "stars": 15563,
+                "stars": 15565,
                 "topics": [
                   "ansible",
                   "automation",
@@ -515,7 +515,7 @@
                 "open_issues": 63,
                 "owner": "ktbyers",
                 "repo": "netmiko",
-                "stars": 4287,
+                "stars": 4289,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -536,7 +536,7 @@
                 "open_issues": 46,
                 "owner": "nornir-automation",
                 "repo": "nornir",
-                "stars": 1623,
+                "stars": 1624,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -554,10 +554,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T12:18:35Z",
-                "open_issues": 42,
+                "open_issues": 43,
                 "owner": "networktocode",
                 "repo": "ntc-templates",
-                "stars": 1297,
+                "stars": 1298,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -578,7 +578,7 @@
                 "open_issues": 16,
                 "owner": "google",
                 "repo": "textfsm",
-                "stars": 1247,
+                "stars": 1248,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -628,7 +628,7 @@
                 "open_issues": 44,
                 "owner": "dmulyalin",
                 "repo": "ttp",
-                "stars": 389,
+                "stars": 390,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -724,7 +724,7 @@
                 "id": 1189087994,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T16:31:02Z",
+                "last_commit": "2026-09-20T17:35:23Z",
                 "open_issues": 25,
                 "owner": "cisco-ai-defense",
                 "repo": "defenseclaw",
@@ -745,11 +745,11 @@
                 "id": 1161938470,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T18:41:06Z",
+                "last_commit": "2026-09-20T15:38:36Z",
                 "open_issues": 1,
                 "owner": "automateyournetwork",
                 "repo": "netclaw",
-                "stars": 662,
+                "stars": 663,
                 "topics": []
               },
               "first_seen": "2026-08-28T13:16:06.450Z"
@@ -777,7 +777,7 @@
                 "open_issues": 1,
                 "owner": "robcowart",
                 "repo": "elastiflow",
-                "stars": 2509,
+                "stars": 2510,
                 "topics": [
                   "elasticsearch",
                   "elk",
@@ -806,7 +806,7 @@
                 "open_issues": 71,
                 "owner": "Edgio",
                 "repo": "vflow",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": [
                   "cisco",
                   "golang",
@@ -867,7 +867,7 @@
                 "open_issues": 35,
                 "owner": "cloudflare",
                 "repo": "goflow",
-                "stars": 919,
+                "stars": 920,
                 "topics": [
                   "cisco",
                   "flow",
@@ -1130,7 +1130,7 @@
                 "open_issues": 2,
                 "owner": "idaholab",
                 "repo": "Malcolm",
-                "stars": 480,
+                "stars": 481,
                 "topics": [
                   "arkime",
                   "cybersecurity",
@@ -1207,7 +1207,7 @@
                 "open_issues": 220,
                 "owner": "netbox-community",
                 "repo": "netbox",
-                "stars": 21559,
+                "stars": 21573,
                 "topics": [
                   "cabling",
                   "dcim",
@@ -1238,7 +1238,7 @@
                 "open_issues": 1025,
                 "owner": "nautobot",
                 "repo": "nautobot",
-                "stars": 1609,
+                "stars": 1612,
                 "topics": [
                   "dcim",
                   "hacktoberfest",
@@ -1288,11 +1288,11 @@
                 "id": 528799794,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-19T20:27:34Z",
-                "open_issues": 556,
+                "last_commit": "2026-09-21T06:50:31Z",
+                "open_issues": 559,
                 "owner": "opsmill",
                 "repo": "infrahub",
-                "stars": 522,
+                "stars": 523,
                 "topics": [
                   "cicd",
                   "dcim",
@@ -1360,11 +1360,11 @@
                 "id": 290960521,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-16T19:22:39Z",
-                "open_issues": 70,
+                "last_commit": "2026-09-20T08:25:10Z",
+                "open_issues": 71,
                 "owner": "srl-labs",
                 "repo": "containerlab",
-                "stars": 2822,
+                "stars": 2825,
                 "topics": [
                   "ceos",
                   "containerlab",
@@ -1393,8 +1393,8 @@
                 "id": 320043315,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-18T15:25:30Z",
-                "open_issues": 24,
+                "last_commit": "2026-09-20T16:39:34Z",
+                "open_issues": 25,
                 "owner": "ipspace",
                 "repo": "netlab",
                 "stars": 740,
@@ -1445,7 +1445,7 @@
                 "open_issues": 3,
                 "owner": "pnetlab",
                 "repo": "pnetlab_main",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "network",
                   "simulation"
@@ -1482,7 +1482,7 @@
                 "open_issues": 43,
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 11003,
+                "stars": 11004,
                 "topics": [
                   "containers",
                   "docker",
@@ -1510,7 +1510,7 @@
                 "open_issues": 43,
                 "owner": "nicolaka",
                 "repo": "netshoot",
-                "stars": 11003,
+                "stars": 11004,
                 "topics": [
                   "containers",
                   "docker",
@@ -1587,11 +1587,11 @@
                 "id": 10744183,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-20T00:25:10Z",
-                "open_issues": 408,
+                "last_commit": "2026-09-21T04:53:41Z",
+                "open_issues": 409,
                 "owner": "netdata",
                 "repo": "netdata",
-                "stars": 80599,
+                "stars": 80609,
                 "topics": [
                   "ai",
                   "alerting",
@@ -1634,11 +1634,11 @@
                     "id": 507775,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-20T06:44:29Z",
-                    "open_issues": 6099,
+                    "last_commit": "2026-09-21T06:53:45Z",
+                    "open_issues": 6109,
                     "owner": "elastic",
                     "repo": "elasticsearch",
-                    "stars": 77941,
+                    "stars": 77953,
                     "topics": [
                       "elasticsearch",
                       "java",
@@ -1659,11 +1659,11 @@
                     "id": 7833168,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-19T19:42:08Z",
-                    "open_issues": 14609,
+                    "last_commit": "2026-09-21T06:52:44Z",
+                    "open_issues": 14622,
                     "owner": "elastic",
                     "repo": "kibana",
-                    "stars": 21294,
+                    "stars": 21293,
                     "topics": [
                       "dashboards",
                       "elasticsearch",
@@ -1692,7 +1692,7 @@
                     "open_issues": 2255,
                     "owner": "elastic",
                     "repo": "logstash",
-                    "stars": 14946,
+                    "stars": 14945,
                     "topics": [
                       "etl-framework",
                       "java",
@@ -1716,7 +1716,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:47:17.774Z",
+    "last_updated": "2026-09-21T06:53:47.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome computer networking resources",
@@ -1728,7 +1728,7 @@
       "open_issues": 24,
       "owner": "nyquist",
       "repo": "awesome-networking",
-      "stars": 722,
+      "stars": 724,
       "topics": [
         "awesome",
         "awesome-list",
