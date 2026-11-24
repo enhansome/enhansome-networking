@@ -1,6 +1,6 @@
 # Awesome Computer Networking Resources with stars
 
-An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 103 | 📅 2026-09-02 of resources to design, implement and operate computer networks.
+An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,969 | 🐛 103 | 📅 2026-09-02 of resources to design, implement and operate computer networks.
 
 # Contents
 
@@ -51,7 +51,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## VPN
 
-* [Firezone](https://github.com/firezone/firezone) ⭐ 9,199 | 🐛 425 | 🌐 Elixir | 📅 2026-11-23 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
+* [Firezone](https://github.com/firezone/firezone) ⭐ 9,198 | 🐛 426 | 🌐 Elixir | 📅 2026-11-24 - Open-source VPN server and egress firewall for Linux built on WireGuard. Firezone is easy to set up (all dependencies are bundled thanks to Chef Omnibus), secure, performant, and self hostable.
 * [Pilot Protocol](https://github.com/TeoSlayer/pilotprotocol) ⭐ 149 | 🐛 10 | 🌐 Go | 📅 2026-11-15 - Overlay network stack for AI agents with virtual addresses, encrypted UDP tunnels (AES-256-GCM), NAT traversal, and mutual trust. Written in Go with zero dependencies.
 * [PiVPN](https://www.pivpn.io/) - Simplest OpenVPN setup and configuration, designed for Raspberry Pi.
 
@@ -63,7 +63,7 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## Network Simulators and Traffic Generators
 
-* [Arkime](https://github.com/arkime/arkime) ⭐ 7,584 | 🐛 42 | 🌐 C | 📅 2026-11-22 - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
+* [Arkime](https://github.com/arkime/arkime) ⭐ 7,587 | 🐛 43 | 🌐 C | 📅 2026-11-22 - Arkime augments your current security infrastructure to store and index network traffic in standard PCAP format, providing fast, indexed access.
 * [snabb](https://github.com/snabbco/snabb) ⭐ 3,034 | 🐛 4 | 🌐 Lua | 📅 2026-11-17 - Snabb (formerly "Snabb Switch") is a simple and fast packet networking toolkit.
 * [vqfx10k-vagrant](https://github.com/juniper/vqfx10k-vagrant) ⭐ 136 | 🐛 21 | 🌐 HTML | 📅 2020-11-21 - Vagrant files to bring up Juniper virtual QFX instances.
 * [Multi-Generator](https://github.com/USNavalResearchLaboratory/mgen) ⭐ 108 | 🐛 10 | 🌐 C++ | 📅 2025-10-02 - Open source software that provides the ability to perform IP network performance tests and measurements using TCP and UDP/IP traffic.
@@ -89,8 +89,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## Network Change Management
 
-* [Oxidized](https://github.com/ytti/oxidized) ⭐ 3,669 | 🐛 51 | 🌐 Ruby | 📅 2026-11-16 - Network device configuration backup tool. It's a [RANCID](https://www.shrubbery.net/rancid/) replacement.
-* [Batfish](https://github.com/batfish/batfish) ⭐ 1,539 | 🐛 298 | 🌐 Java | 📅 2026-11-23 - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
+* [Oxidized](https://github.com/ytti/oxidized) ⭐ 3,669 | 🐛 53 | 🌐 Ruby | 📅 2026-11-23 - Network device configuration backup tool. It's a [RANCID](https://www.shrubbery.net/rancid/) replacement.
+* [Batfish](https://github.com/batfish/batfish) ⭐ 1,539 | 🐛 291 | 🌐 Java | 📅 2026-11-24 - Network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations.
 * [Jazigo](https://github.com/udhos/jazigo) ⭐ 230 | 🐛 1 | 🌐 Go | 📅 2023-11-02 - Jazigo is a tool written in Go for retrieving configuration for multiple devices, similar to rancid, fetchconfig, oxidized, Sweet.
 * [sweet](https://github.com/AppliedTrust/sweet) ⚠️ Archived - Network device configuration backups and change alerts for the 21st century - inspired by RANCID.
 * [stockpiler](https://github.com/lykinsbd/stockpiler) ⭐ 43 | 🐛 10 | 🌐 Python | 📅 2020-05-15 - Stockpiler gathers network device configurations and stores them in a local Git repository.
@@ -101,15 +101,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## Network Automation
 
-* [Ansible](https://github.com/ansible/ansible) ⭐ 71,668 | 🐛 887 | 🌐 Python | 📅 2026-11-19 - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
-* [AWX](https://github.com/ansible/awx) ⭐ 15,638 | 🐛 1,942 | 🌐 Python | 📅 2026-11-23 - the upstream project for Tower / AAP2, a commercial derivative of AWX.
-* [netmiko](https://github.com/ktbyers/netmiko) ⭐ 4,331 | 🐛 68 | 🌐 Python | 📅 2026-11-19 - Multi-vendor library to simplify Paramiko SSH connections to network devices.
-* [nornir](https://github.com/nornir-automation/nornir) ⭐ 1,641 | 🐛 50 | 🌐 Python | 📅 2026-11-17 - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
+* [Ansible](https://github.com/ansible/ansible) ⭐ 71,568 | 🐛 889 | 🌐 Python | 📅 2026-11-23 - IT automation platform that makes your applications and systems easier to deploy by using SSH, with no agents to install on remote systems.
+* [AWX](https://github.com/ansible/awx) ⭐ 15,642 | 🐛 1,943 | 🌐 Python | 📅 2026-11-23 - the upstream project for Tower / AAP2, a commercial derivative of AWX.
+* [netmiko](https://github.com/ktbyers/netmiko) ⭐ 4,332 | 🐛 68 | 🌐 Python | 📅 2026-11-19 - Multi-vendor library to simplify Paramiko SSH connections to network devices.
+* [nornir](https://github.com/nornir-automation/nornir) ⭐ 1,641 | 🐛 51 | 🌐 Python | 📅 2026-11-24 - Pluggable multi-threaded framework with inventory management to help operate collections of devices.
 * [ntc-templates](https://github.com/networktocode/ntc-templates) ⭐ 1,308 | 🐛 40 | 🌐 Python | 📅 2026-11-19 - TextFSM templates for parsing show commands of network devices.
-* [TextFSM](https://github.com/google/textfsm) ⭐ 1,258 | 🐛 17 | 🌐 Python | 📅 2026-11-16 -  Python module for parsing semi-structured text into Python tables.
+* [TextFSM](https://github.com/google/textfsm) ⭐ 1,258 | 🐛 16 | 🌐 Python | 📅 2026-11-16 -  Python module for parsing semi-structured text into Python tables.
 * [trigger](https://github.com/trigger/trigger) ⭐ 561 | 🐛 67 | 🌐 Python | 📅 2026-11-05 - Robust network automation toolkit written in Python that was designed for interfacing with network devices.
 * [TTP](https://github.com/dmulyalin/ttp) ⭐ 393 | 🐛 44 | 🌐 Python | 📅 2026-03-24 - TTP is a Python library for semi-structured text parsing using templates.
-* [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) ⭐ 95 | 🐛 42 | 🌐 Python | 📅 2026-11-17 - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
+* [CNaaS-NMS](https://github.com/SUNET/cnaas-nms) ⭐ 95 | 🐛 44 | 🌐 Python | 📅 2026-11-24 - Campus Network-as-a-Service - Network Management System. Software to automate management of a campus network (LAN).
 * [gotextfsm](https://github.com/sirikothe/gotextfsm) ⭐ 71 | 🐛 0 | 🌐 Go | 📅 2026-08-25 - Port of Google's TextFSM library from Python to Go/Golang.
 * [GitNOps](https://github.com/mcgonagle/GitNops) ⭐ 28 | 🐛 1 | 🌐 HCL | 📅 2026-09-18 - GitNops is an operational framework that takes DevOps best practices used for application development such as version control, collaboration, compliance, and CI/CD, and applies them to network automation.
 * [Napalm](https://napalm-automation.net/) - Vendor neutral, cross-platform open source project that provides a unified API to network devices.
@@ -121,8 +121,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## AI for Networking
 
-* [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) ⭐ 914 | 🐛 71 | 🌐 Go | 📅 2026-11-23 - DefenseClaw is the enterprise governance layer for OpenClaw
-* [NetClaw](https://github.com/automateyournetwork/netclaw) ⭐ 736 | 🐛 6 | 🌐 Python | 📅 2026-11-22 - A CCIE-level AI network engineering coworker, built on OpenClaw
+* [DefenseClaw](https://github.com/cisco-ai-defense/defenseclaw) ⭐ 914 | 🐛 68 | 🌐 Go | 📅 2026-11-24 - DefenseClaw is the enterprise governance layer for OpenClaw
+* [NetClaw](https://github.com/automateyournetwork/netclaw) ⭐ 736 | 🐛 7 | 🌐 Python | 📅 2026-11-23 - A CCIE-level AI network engineering coworker, built on OpenClaw
 * [Cisco LLM Security Leaderboard](https://leaderboard.aidefense.cisco.com/methodology) - Comprehensive model safety and security rankings, including single-turn score, multi-turn score, and detailed metrics.
 
 ## Network Monitoring
@@ -162,10 +162,10 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## Network Inventory
 
-* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,926 | 🐛 276 | 🌐 Python | 📅 2026-11-22 - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
-* [nautobot](https://github.com/nautobot/nautobot) ⭐ 1,643 | 🐛 1,055 | 🌐 Python | 📅 2026-11-23 - Network Source of Truth & Network Automation Platform.
+* [netbox](https://github.com/digitalocean/netbox) ⭐ 21,932 | 🐛 270 | 🌐 Python | 📅 2026-11-24 - IP address management (IPAM) and data center infrastructure management (DCIM) tool.
+* [nautobot](https://github.com/nautobot/nautobot) ⭐ 1,645 | 🐛 1,051 | 🌐 Python | 📅 2026-11-24 - Network Source of Truth & Network Automation Platform.
 * [drawthe.net](https://github.com/cidrblock/drawthe.net) ⭐ 1,182 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-13 - Draws network diagrams dynamically from a text file describing the placement, layout and icons.
-* [infrahub](https://github.com/opsmill/infrahub) ⭐ 554 | 🐛 687 | 🌐 Python | 📅 2026-11-23 -  Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
+* [infrahub](https://github.com/opsmill/infrahub) ⭐ 555 | 🐛 689 | 🌐 Python | 📅 2026-11-24 -  Infrahub is a graph-based data management platform with built-in version control, CI workflows, peer review, and API access. It’s purpose-built to power reliable infrastructure automation at scale.
 * [nsot](https://github.com/dropbox/nsot) ⭐ 407 | 🐛 65 | 🌐 Python | 📅 2024-02-13 - Network Source of Truth is an open source IPAM and network inventory database.
 * [phpipam](https://phpipam.net/) - Open-source web IP address management application (IPAM).
 * [ipfabric](https://ipfabric.io/product/network-mapping) - Network Topology Mapping & Visualization (Commercial).
@@ -173,8 +173,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## Networking Labs
 
-* [containerlab](https://github.com/srl-labs/containerlab) ⭐ 2,964 | 🐛 54 | 🌐 Go | 📅 2026-11-22 - Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).
-* [netlab](https://github.com/ipspace/netlab) ⭐ 761 | 🐛 38 | 🌐 Python | 📅 2026-11-22 - netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.
+* [containerlab](https://github.com/srl-labs/containerlab) ⭐ 2,967 | 🐛 64 | 🌐 Go | 📅 2026-11-24 - Container-based networking labs, though support has been added to integrate Virtual Machines (VMs).
+* [netlab](https://github.com/ipspace/netlab) ⭐ 761 | 🐛 31 | 🌐 Python | 📅 2026-11-24 - netlab is bringing infrastructure-as-code concepts to networking labs. You'll describe your high-level network topology and routing design in a YAML file, and the tools in this repository auto-define details.
 * [CML](https://www.cisco.com/site/us/en/learn/training-certifications/training/modeling-labs/index.html) - Cisco Modeling Labs is a network simulation tool with both free and paid versions. CML is the successor to VIRL. Community contributed content and resources are available via [cml-community](https://github.com/CiscoDevNet/cml-community) ⭐ 687 | 🐛 5 | 🌐 Shell | 📅 2026-11-19.
 * [PNETLab](https://github.com/pnetlab/pnetlab_main) ⭐ 88 | 🐛 3 | 🌐 JavaScript | 📅 2023-07-24 - Introducing the most powerful tool to create, share and practice Networking Lab with multi-vendors.
 * [Cisco DevNet Labs](https://developer.cisco.com/site/sandbox/) - Cisco's sandboxing environment.
@@ -186,8 +186,8 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## DevNet Tools
 
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,109 | 🐛 45 | 🌐 Shell | 📅 2026-11-11 - a Docker + Kubernetes network trouble-shooting swiss-army container.
-* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,109 | 🐛 45 | 🌐 Shell | 📅 2026-11-11 - a Docker + Kubernetes network trouble-shooting swiss-army container.
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,111 | 🐛 44 | 🌐 Shell | 📅 2026-11-23 - a Docker + Kubernetes network trouble-shooting swiss-army container.
+* [netshoot](https://github.com/nicolaka/netshoot) ⭐ 11,111 | 🐛 44 | 🌐 Shell | 📅 2026-11-23 - a Docker + Kubernetes network trouble-shooting swiss-army container.
 * [chromaterm](https://github.com/hSaria/ChromaTerm) ⚠️ Archived - ChromaTerm is a Python module and script used for coloring the output to terminals.
 * [net-benchmark](https://github.com/net-benchmark/net-benchmark) ⭐ 16 | 🐛 6 | 🌐 Python | 📅 2026-11-20 - DNS/HTTP/SSL benchmarking and diagnostics CLI.
 * [ops\_tcpdump\_handler](https://github.com/cerner/ops_tcpdump_handler) ⚠️ Archived - Chef Cookbook to test network connectivity .
@@ -205,15 +205,15 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ## DevNet Monitoring
 
-* [netdata](https://github.com/firehol/netdata) ⭐ 81,603 | 🐛 465 | 🌐 Go | 📅 2026-11-23 - Distributed real-time performance and health monitoring.
+* [netdata](https://github.com/firehol/netdata) ⭐ 81,606 | 🐛 471 | 🌐 Go | 📅 2026-11-24 - Distributed real-time performance and health monitoring.
 * [Grafana](https://grafana.com/) - Open source software for time series analytics.
 * [monit](https://mmonit.com/monit/) -Small Open Source utility for managing and monitoring Unix systems. Monit conducts automatic maintnance and repair and can execute meaningful causal actions in error situations.
 * [Prometheus](https://prometheus.io/) - Open-source systems monitoring and alerting toolkit originally built at SoundCloud.
 * [sensu](https://sensuapp.org/) - Monitor servers, services, application health, and business KPIs. Collect and analyze custom metrics. Get notified about failures before your users do. Give your business the competitive advantage it deserves. (Open Source or Commercial).
 * ELK Stack
-  * [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,800 | 🐛 6,674 | 🌐 Java | 📅 2026-11-23 - Open Source, Distributed, RESTful Search Engine.
-  * [Kibana](https://github.com/elastic/kibana) ⭐ 21,396 | 🐛 14,708 | 🌐 TypeScript | 📅 2026-11-23 - Analytics and search dashboard for Elasticsearch.
-  * [LogStash](https://github.com/elastic/logstash) ⭐ 14,983 | 🐛 2,267 | 🌐 Java | 📅 2026-11-23 - Transport and process your logs, events, or other data.
+  * [Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,719 | 🐛 6,643 | 🌐 Java | 📅 2026-11-24 - Open Source, Distributed, RESTful Search Engine.
+  * [Kibana](https://github.com/elastic/kibana) ⭐ 21,396 | 🐛 14,654 | 🌐 TypeScript | 📅 2026-11-24 - Analytics and search dashboard for Elasticsearch.
+  * [LogStash](https://github.com/elastic/logstash) ⭐ 14,984 | 🐛 2,261 | 🌐 Java | 📅 2026-11-24 - Transport and process your logs, events, or other data.
 * [Graylog](https://www.graylog.org/) - Parse and enrich logs, wire data, and event data from any data source (Commercial, Free for less than 5GB/day).
 
 ## DevNet Knowledgebase
@@ -236,4 +236,4 @@ An [awesome list](https://github.com/sindresorhus/awesome) ⭐ 541,320 | 🐛 10
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
